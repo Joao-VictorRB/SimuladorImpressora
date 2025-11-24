@@ -220,6 +220,7 @@ O projeto integra conceitos importantes, como:
 * Implementação de um menu dinâmico
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 O resultado é um sistema funcional que simula o uso real de uma impressora fiscal que pode ser usada em lojas fiscais, departamentos financeiros e também em situações reais de impressão direta. 
 
 # 🔧 Devs
@@ -234,3 +235,6 @@ O resultado é um sistema funcional que simula o uso real de uma impressora fisc
 =======
 O resultado é um sistema funcional que simula muito bem o uso real de uma impressora fiscal que pode ser usada em lojas fiscais, departamentos financeiros e também em situações reais de impressão direta. 
 >>>>>>> 7d7ef2c (Create README.md)
+=======
+O resultado é um sistema funcional que simula o uso real de uma impressora fiscal que pode ser usada em lojas fiscais, departamentos financeiros e também em situações reais de impressão direta. 
+>>>>>>> 7171a4b (Update README.md)
