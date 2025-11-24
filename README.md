@@ -219,4 +219,4 @@ O projeto integra conceitos importantes, como:
 * Interação com o usuário
 * Implementação de um menu dinâmico
 
-O resultado é um sistema funcional que simula muito bem o uso real de uma impressora fiscal que pode ser usada em lojas fiscais, departamentos financeiros e também em situações reais de impressão direta. 
+O resultado é um sistema funcional que simula o uso real de uma impressora fiscal que pode ser usada em lojas fiscais, departamentos financeiros e também em situações reais de impressão direta. 
