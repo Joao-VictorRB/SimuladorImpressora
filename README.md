@@ -232,9 +232,12 @@ O resultado é um sistema funcional que simula o uso real de uma impressora fisc
 | 👤 Rafael Rodrigues    | [GitHub](https://github.com/RafinhaAlmeida)  | [LinkedIn](https://www.linkedin.com/in/rafael-rodrigues-de-almeida-a45ba2300/) |
 | 👤 Eduardo             | [GitHub](https://github.com/Eduardo0711)     | [LinkedIn](https://www.linkedin.com/in/eduardo-reis-221a0939a/)                |
 | 👤 Samuel Sena         | [GitHub](https://github.com/Samuelsena9)     | [LinkedIn](https://www.linkedin.com/in/samuel-sena-036a3a257/)                 |
+<<<<<<< HEAD
 =======
 O resultado é um sistema funcional que simula muito bem o uso real de uma impressora fiscal que pode ser usada em lojas fiscais, departamentos financeiros e também em situações reais de impressão direta. 
 >>>>>>> 7d7ef2c (Create README.md)
 =======
 O resultado é um sistema funcional que simula o uso real de uma impressora fiscal que pode ser usada em lojas fiscais, departamentos financeiros e também em situações reais de impressão direta. 
 >>>>>>> 7171a4b (Update README.md)
+=======
+>>>>>>> f3deed3 (Atualização do codigo e add devs ao redme)
