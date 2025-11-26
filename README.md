@@ -220,3 +220,13 @@ O projeto integra conceitos importantes, como:
 * Implementação de um menu dinâmico
 
 O resultado é um sistema funcional que simula o uso real de uma impressora fiscal que pode ser usada em lojas fiscais, departamentos financeiros e também em situações reais de impressão direta. 
+
+# 🔧 Devs
+
+| Nome                   | GitHub                                       | LinkedIn                                                                       |
+| ---------------------- | -------------------------------------------- | ------------------------------------------------------------------------------ |
+| 👤 João Victor Batista | [GitHub](https://github.com/Joao-VictorRB)   | [LinkedIn](https://www.linkedin.com/in/jo%C3%A3ovictorbatista/)                |
+| 👤 Isabelle Pimenta    | [GitHub](https://github.com/isabellepimenta) | [LinkedIn](https://www.linkedin.com/in/isabelle-pimenta-santos/)               |
+| 👤 Rafael Rodrigues    | [GitHub](https://github.com/RafinhaAlmeida)  | [LinkedIn](https://www.linkedin.com/in/rafael-rodrigues-de-almeida-a45ba2300/) |
+| 👤 Eduardo             | [GitHub](https://github.com/Eduardo0711)     | [LinkedIn](https://www.linkedin.com/in/eduardo-reis-221a0939a/)                |
+| 👤 Samuel Sena         | [GitHub](https://github.com/Samuelsena9)     | [LinkedIn](https://www.linkedin.com/in/samuel-sena-036a3a257/)                 |
